@@ -1,0 +1,64 @@
+# Repository FDS25-T043 Practical 2
+
+You have passed the Practical 2. You got 98.0/100 points and 5.0/5.0 bonus points. Please find the feedback below. 
+
+## Code Quality: 8.0/8.0
+
+The quality of the code is ok.
+
+## ContFeatureParam.estimate: 8.0/8.0
+
+ContFeatureParam.estimate: The implementation is OK.
+
+## ContFeatureParam.get_log_probability: 8.0/8.0
+
+ContFeatureParam.get_log_probability: The implementation is OK.
+
+## BinFeatureParam.estimate: 8.0/8.0
+
+BinFeatureParam.estimate: The implementation is OK.
+
+## BinFeatureParam.get_log_probability: 8.0/8.0
+
+BinFeatureParam.get_log_probability: The implementation is OK.
+
+## CatFeatureParam.estimate (Bonus): 1.0/1.0
+
+CatFeatureParam.estimate: The implementation is OK.
+
+## CatFeatureParam.get_log_probability (Bonus): 1.0/1.0
+
+CatFeatureParam.get_log_probability: The implementation is OK.
+
+## FeatureParam tests: 3.0/3.0
+
+FeatureParam.tests: The tests are OK.
+
+## NBC.fit: 12.0/12.0 (bonus 0.5/0.5)
+
+NBC.fit: The implementation is OK.
+
+## NBC.predict: 12.0/12.0 (bonus 0.5/0.5)
+
+NBC.predict: The implementation is OK.
+
+## NBC tests: 3.0/3.0
+
+NBC.test: The tests are OK.
+
+## compareNBCvsLR: 10.0/10.0
+
+compareNBCvsLR: The implementation is OK.
+
+## Experiment IRIS: 10.0/10.0
+
+Experiment.IRIS: The experiment is OK.
+
+## Experiment Voting: 8.0/10.0
+
+2.0 points deducted -- Experiment.Voting: The missing data is not handled properly.
+
+## Experiment Cancer (Bonus): 2.0/2.0
+
+Experiment.Cancer: The experiment is OK.
+
